@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
 🔭 I’m currently working on ... Web devops and aiml projects
 🌱 I’m currently learning ... HTML CSS JS
+⚡ Fun fact: ... Learning fast demo test account
+🤔 I’m looking for help with ... proxy test lauren ipsum
