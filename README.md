@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 -->
 ## Tech Stack
 <img src="https://img.icons8.com/color/48/000000/git.png" title="Git" >
-🔭 I’m currently working on ... Web devops and aiml projects
-⚡ Fun fact: ... Learning fast demo test account
